@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="First.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Node.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="second.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="NodeList.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="作业1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="作业2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="作业3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="作业4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="链表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="栈应用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="栈1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="进制转换栈2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="括号配对栈3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="可编程计算器4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="链表结点移动.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="中缀转后缀算值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="循环队列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="队列二项式展开.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="简单匹配算法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="KMP算法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="银行叫号系统.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="链表多项式.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="栈迷宫求解.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="顺序存储完全二叉树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="队列广度遍历.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="栈实现二叉树前序非递归遍历.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="前序递归遍历.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="栈实现二叉树中序非递归遍历.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="后序递归遍历.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="栈实现二叉树后序非递归遍历.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二叉树全部遍历加上二序生成二叉树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二叉搜索树及其操作.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="最小堆.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="图的矩阵存储与遍历.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二分法查找.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="插入排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="快速排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
